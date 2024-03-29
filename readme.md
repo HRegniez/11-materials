@@ -1,16 +1,41 @@
-# Three.js Journey
+# Materials - THREE JS Journey
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+This project was coded as part of my Three js course, this lesson was aimed at learning about different materials. 
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+I added a ui for testing different material parameters
 
-# Run the local server at localhost:8080
-npm run dev
+## Table of contents
 
-# Build for production in the dist/ directory
-npm run build
-```
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+
+### Links
+
+- Live Site URL: [Up to come](#)
+
+## My process
+
+### Built with
+
+- THREE JS
+
+
+
+
+## Author
+
+- Website - [hregniez.com](https://www.hregniez.com)
+- LinkedIn - [Henri Regniez](https://www.linkedin.com/in/henri-regniez/)
+
+
