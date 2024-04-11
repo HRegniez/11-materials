@@ -22,7 +22,7 @@ I added a ui for testing different material parameters
 
 ### Links
 
-- Live Site URL: [Up to come](#)
+- Live Site URL: [Materials](http://threejsmaterials.hregniez.com/)
 
 ## My process
 
